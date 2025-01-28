@@ -1,4 +1,5 @@
 **Task1. Multithreading**
+
 Requirements:
 
 ✦ Any entity that wants to access a shared resource must be a
@@ -24,6 +25,7 @@ and have a name that reflects their functionality.
 Description: Create a scheduler that will run tasks at a specific time or at specified intervals. Use a thread pool to execute multiple tasks in parallel to ensure efficiency.
 
 **Key Concepts**
+
 _Task Scheduler:_
 
 o The central component that manages tasks and their execution.
