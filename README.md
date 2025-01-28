@@ -1,5 +1,6 @@
 Task1. Multithreading
-Requirements
+Requirements:
+
  Any entity that wants to access a shared resource must be a
 thread.
  Classes and other application entities must be properly structured into packages
