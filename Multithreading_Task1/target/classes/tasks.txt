@@ -1,0 +1,3 @@
+PrintTask,Hello World!,2025-01-28T20:33:00
+FileWriteTask,output.log,FileWriteTask executed,5,SECONDS
+DataProcessingTask,1,2,3,4,5,2025-01-28T20:33:00
