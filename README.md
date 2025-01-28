@@ -1,23 +1,23 @@
-Task1. Multithreading
+**Task1. Multithreading**
 Requirements:
 
- Any entity that wants to access a shared resource must be a
+✦ Any entity that wants to access a shared resource must be a
 thread.
 
- Classes and other application entities must be properly structured into packages
+✦ Classes and other application entities must be properly structured into packages
 and have a name that reflects their functionality.
 
- Use the State pattern to describe object states, unless there are more than two of these states.
+✦ Use the State pattern to describe object states, unless there are more than two of these states.
 
- Callable may be used to create threads, if possible.
+✦ Callable may be used to create threads, if possible.
 
- Only TimeUnit enumeration capabilities may be used instead of Thread.sleep.
+✦ Only TimeUnit enumeration capabilities may be used instead of Thread.sleep.
 
- Read object initialization data from a file. The data in the file is correct.
+✦ Read object initialization data from a file. The data in the file is correct.
 
- Use Log4J2 or any other to write logs.
+✦ Use Log4J2 or any other to write logs.
 
- It is allowed to use the main method to start.
+✦ It is allowed to use the main method to start.
 
 14. Task Scheduler: Develop a system for executing tasks on a schedule.
     
